@@ -894,6 +894,7 @@
       "path": "avalonedit/5.0.3",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "avalonedit.5.0.3.nupkg.sha512",
         "avalonedit.nuspec",
         "lib/Net35/ICSharpCode.AvalonEdit.dll",
@@ -920,7 +921,6 @@
       "type": "package",
       "path": "closedxml/0.87.1",
       "files": [
-        ".nupkg.metadata",
         "closedxml.0.87.1.nupkg.sha512",
         "closedxml.nuspec",
         "lib/net35/ClosedXML.dll",
@@ -937,6 +937,7 @@
       "path": "csvhelper/2.13.5",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "csvhelper.2.13.5.nupkg.sha512",
         "csvhelper.nuspec",
         "lib/net20/CsvHelper.dll",
@@ -958,7 +959,6 @@
       "type": "package",
       "path": "documentformat.openxml/2.5.0",
       "files": [
-        ".nupkg.metadata",
         "documentformat.openxml.2.5.0.nupkg.sha512",
         "documentformat.openxml.nuspec",
         "lib/DocumentFormat.OpenXml.dll"
@@ -971,6 +971,7 @@
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "extended.wpf.toolkit.2.8.0.nupkg.sha512",
         "extended.wpf.toolkit.nuspec",
         "lib/net35/WPFToolkit.dll",
@@ -1049,7 +1050,6 @@
       "type": "package",
       "path": "microsoft.exchange.webservices/2.2.0",
       "files": [
-        ".nupkg.metadata",
         "doc/License Terms.rtf",
         "doc/README.htm",
         "doc/Redist.txt",
@@ -1103,7 +1103,6 @@
       "type": "package",
       "path": "microsoft.visualstudio.ole.interop/7.10.6071",
       "files": [
-        ".nupkg.metadata",
         "lib/Microsoft.VisualStudio.OLE.Interop.dll",
         "lib/Microsoft.VisualStudio.OLE.Interop.xml",
         "microsoft.visualstudio.ole.interop.7.10.6071.nupkg.sha512",
@@ -1147,6 +1146,7 @@
       "path": "npoi/2.4.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE",
         "Read Me.txt",
         "lib/NPOI.xml",
@@ -1180,6 +1180,7 @@
       "path": "sharpziplib/1.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/ICSharpCode.SharpZipLib.dll",
         "lib/net45/ICSharpCode.SharpZipLib.xml",
         "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll",
@@ -1740,11 +1741,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "ArraysTutorial",
-      "projectName": "ArraysTutorial",
-      "projectPath": "D:\\GitHub\\UiPathAcademy_Studia\\ArraysTutorial\\.local",
+      "projectUniqueName": "IfTutorial",
+      "projectName": "IfTutorial",
+      "projectPath": "D:\\GitHub\\UiPathAcademy_Studia\\IfTutorial\\.local",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\UiPathAcademy_Studia\\ArraysTutorial\\.local"
+      "outputPath": "D:\\GitHub\\UiPathAcademy_Studia\\IfTutorial\\.local"
     },
     "frameworks": {
       "net461": {
